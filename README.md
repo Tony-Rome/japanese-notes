@@ -2,7 +2,7 @@
 
 ---
 
-Collection of notes to learn japanese regard beginner level N5 & N4. 
+Collection of notes to learn Japanese at beginner level N5 & N4. 
 
 For now there are simple markdown files without both studio format and order to read.
 
